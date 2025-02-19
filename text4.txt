@@ -1,1 +1,1 @@
-twxt4 file.text
+text4 file.text
